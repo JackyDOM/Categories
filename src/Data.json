@@ -1,0 +1,140 @@
+{
+  "bacll": {
+    "items": [
+      {
+        "image": "https://4.bp.blogspot.com/-MXSAiVZreCc/XqxAU5rN2SI/AAAAAAAAAd8/45FdndIGKO453riKwQLTWYlA1FwHesq7QCLcBGAsYHQ/s1600/ss12.jpg",
+        "title": "Item 1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.DXirR-nhE9M2rtI86qW7TQHaKe?rs=1&pid=ImgDetMain",
+        "title": "Item 2",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://4.bp.blogspot.com/-MXSAiVZreCc/XqxAU5rN2SI/AAAAAAAAAd8/45FdndIGKO453riKwQLTWYlA1FwHesq7QCLcBGAsYHQ/s1600/ss12.jpg",
+        "title": "Item 1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.DXirR-nhE9M2rtI86qW7TQHaKe?rs=1&pid=ImgDetMain",
+        "title": "Item 2",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://4.bp.blogspot.com/-MXSAiVZreCc/XqxAU5rN2SI/AAAAAAAAAd8/45FdndIGKO453riKwQLTWYlA1FwHesq7QCLcBGAsYHQ/s1600/ss12.jpg",
+        "title": "Item 1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.DXirR-nhE9M2rtI86qW7TQHaKe?rs=1&pid=ImgDetMain",
+        "title": "Item 2",
+        "price": "1200 រៀល"
+      }
+    ]
+  },
+  "comday": {
+    "items": [
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.nE143XZvJqLqM1pEIFuOYQHaLH?rs=1&pid=ImgDetMain",
+        "title": "Item 1",
+        "price": "1200 រៀល"
+      }
+    ]
+  },
+
+  "comic": {
+    "items": [
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      },
+      {
+        "image": "https://th.bing.com/th/id/OIP.eeZ7-A94p9j6oLkjQ7umQwAAAA?rs=1&pid=ImgDetMain",
+        "title": "Item1",
+        "price": "1000 រៀល"
+      }
+    ]
+  },
+  
+  "novel": {
+    "items": [
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      },
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      },
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      },
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      },
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      },
+      {
+        "image": "https://www.coverbrowser.com/image/novel-library/11-1.jpg",
+        "title": "Item 1",
+        "price": "5000 រៀល"
+      }
+    ]
+  }
+}
